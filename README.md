@@ -1,2 +1,2 @@
 # git_tutorial
-7 git commands every Data Scientist should know
+10 git commands every Data Scientist should know
